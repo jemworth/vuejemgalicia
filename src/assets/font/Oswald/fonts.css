@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Light.ttf) format("ttf");
+    font-weight: 300;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Light.ttf) format("ttf");
+    font-weight: 300;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Regular.ttf) format("ttf");
+    font-weight: 400;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Regular.ttf) format("ttf");
+    font-weight: 400;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Medium.ttf) format("ttf");
+    font-weight: 600;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Medium.ttf) format("ttf");
+    font-weight: 600;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Bold.ttf) format("ttf");
+    font-weight: 700;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald-Bold.ttf) format("ttf");
+    font-weight: 700;
+    font-style: italic;
+    font-display: fallback;
+}

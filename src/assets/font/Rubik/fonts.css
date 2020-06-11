@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-Light.ttf) format("ttf");
+    font-weight: 300;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-LightItalic.ttf) format("ttf");
+    font-weight: 300;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-Regular.ttf) format("ttf");
+    font-weight: 400;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-Italic.ttf) format("ttf");
+    font-weight: 400;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-Medium.ttf) format("ttf");
+    font-weight: 600;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-MediumItalic.ttf) format("ttf");
+    font-weight: 600;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-Bold.ttf) format("ttf");
+    font-weight: 700;
+    font-display: fallback;
+}
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-BoldItalic.ttf) format("ttf");
+    font-weight: 700;
+    font-style: italic;
+    font-display: fallback;
+}
